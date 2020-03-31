@@ -1,0 +1,35 @@
+chat:
+  # Type - local or global
+  # Prefix - prefix from LuckPerms
+  # Nickname - player's name
+  format: "&r{TYPE}&r{PREFIX} &f{NICKNAME} &7→ "
+  radius: 32
+  op-color: '6'
+  type:
+    global: "&6(Глоб.)"
+    question: "&a(Вопрос)"
+    advert: "&e(Реклама)"
+
+smiles:
+  sun: '☀'
+  flower: '✿'
+  fun: '☺'
+  sad: '☹'
+  winter: '❆'
+  corona: '♔'
+  yes: '✔'
+  no: '✘'
+  write: '✎'
+  love: '❤'
+  star: '✦'
+  music: '♫'
+  mail: '✉'
+  up: '↑'
+  left: '←'
+  right: '→'
+  down: '↓'
+  harrow: '↔'
+  varrow: '↕'
+  cross: '✚'
+  ussr: '☭'
+  hazard: '☢'

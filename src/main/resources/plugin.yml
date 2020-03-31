@@ -1,0 +1,5 @@
+name: UniChat
+version: ${project.version}
+main: ru.unicorn.storm.unichat.UniChat
+authors: [TyLoDesu, UnicornStormTeam]
+description: Чат для Unicorn Storm
